@@ -1,0 +1,14 @@
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\bin\Debug\net7.0\Modellering.exe
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\bin\Debug\net7.0\Modellering.deps.json
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\bin\Debug\net7.0\Modellering.runtimeconfig.json
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\bin\Debug\net7.0\Modellering.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\bin\Debug\net7.0\Modellering.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.AssemblyInfoInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.AssemblyInfo.cs
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.csproj.CoreCompileInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\refint\Modellering.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\Modellering.genruntimeconfig.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Modellering\Modellering\obj\Debug\net7.0\ref\Modellering.dll
